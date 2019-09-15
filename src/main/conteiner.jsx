@@ -114,8 +114,8 @@ export default props =>
             title='Coruja Bufo-real'
             conteudo='Sitem com o intuito de promover meus projetos, minha homepage que ainda está em contrução.' 
             img={coruja}
-            linkGit='https://github.com/jhonylara/todo-react'
-            linkLive='https://api.jhonylara.com.br/todos'
+            linkGit='https://github.com/jhonylara/inicio'
+            linkLive='https://jhonylara.com.br'
             tecnologias={['react', 'aws']}
         />
         <Cartao 

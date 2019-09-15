@@ -19,13 +19,13 @@ export default function Menu() {
     return (
         <footer className={classes.footer}>
             <Typography letterSpacing={6} variant="h6" align="center" gutterBottom>
-                Feito com muita persistência!  <Emojify style={{height: 30, width: 30}}><span aria-label="nerd" role="img">🤓</span></Emojify>
+                Desenvolvido com muita persistência!  <Emojify style={{height: 30, width: 30}}><span aria-label="nerd" role="img">🤓</span></Emojify>
             </Typography>
             <Typography variant="subtitle2" align="center" component="p">
                 Tecnologias usadas nesse site: React, Material.ui, Emojione
             </Typography>
             <Typography variant="subtitle2" align="center" component="p">
-                Site sem fins lucrativos, providenciando direitos autorais para as imagens usadas.
+                *Site sem fins lucrativos, providenciando direitos autorais para as imagens usadas.
             </Typography>
         </footer>
     );
